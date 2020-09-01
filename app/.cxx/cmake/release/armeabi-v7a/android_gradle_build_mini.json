@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "G:\\AndroidSdk\\studio_sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "G:\\AndroidSdk\\studio_sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "G:\\AndroidSdk\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "G:\\AndroidSdk\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "magic-Release-armeabi-v7a": {
+      "artifactName": "magic",
+      "buildCommand": "G:\\AndroidSdk\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\armeabi-v7a\" magic",
+      "abi": "armeabi-v7a",
+      "output": "E:\\workspace_1\\Kmagic\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libmagic.so"
+    }
+  }
+}

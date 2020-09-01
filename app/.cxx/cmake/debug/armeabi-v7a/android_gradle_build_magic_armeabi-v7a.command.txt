@@ -1,0 +1,7 @@
+Executable : G:\AndroidSdk\studio_sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\workspace_1\Kmagic\app\.cxx\cmake\debug\armeabi-v7a
+magic
+jvmArgs : 
+

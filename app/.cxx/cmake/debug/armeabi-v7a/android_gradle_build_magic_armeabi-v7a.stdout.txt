@@ -1,0 +1,30 @@
+ninja: Entering directory `E:\workspace_1\Kmagic\app\.cxx\cmake\debug\armeabi-v7a'
+[1/7] Building C object CMakeFiles/magic.dir/test.c.o
+[2/7] Building C object CMakeFiles/magic.dir/base64.c.o
+E:/workspace_1/Kmagic/app/src/main/cpp/base64.c:11:20: warning: initializing 'unsigned char *' with an expression of type 'char [65]' converts between pointers to integer types with different sign [-Wpointer-sign]
+    unsigned char *base64_table="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+                   ^            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:/workspace_1/Kmagic/app/src/main/cpp/base64.c:68:16: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    len=strlen(code);
+               ^~~~
+G:/AndroidSdk/studio_sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\bits/fortify/string.h:243:33: note: passing argument to parameter 's' here
+size_t strlen(const char* const s __pass_object_size0) __overloadable {
+                                ^
+E:/workspace_1/Kmagic/app/src/main/cpp/base64.c:70:15: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    if(strstr(code,"=="))
+              ^~~~
+G:/AndroidSdk/studio_sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\string.h:112:26: note: passing argument to parameter '__haystack' here
+char* strstr(const char* __haystack, const char* __needle) __attribute_pure__;
+                         ^
+E:/workspace_1/Kmagic/app/src/main/cpp/base64.c:72:20: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    else if(strstr(code,"="))
+                   ^~~~
+G:/AndroidSdk/studio_sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include\string.h:112:26: note: passing argument to parameter '__haystack' here
+char* strstr(const char* __haystack, const char* __needle) __attribute_pure__;
+                         ^
+4 warnings generated.
+[3/7] Building C object CMakeFiles/magic.dir/md5_dgst.c.o
+[4/7] Building C object CMakeFiles/magic.dir/hmac_sha1.c.o
+[5/7] Building C object CMakeFiles/magic.dir/md5_one.c.o
+[6/7] Building CXX object CMakeFiles/magic.dir/magic.cpp.o
+[7/7] Linking CXX shared library E:\workspace_1\Kmagic\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libmagic.so

@@ -1,0 +1,7 @@
+Executable : C:\Java\ss\studio_sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\Workspace_as\Kmagic\app\.cxx\cmake\debug\x86_64
+native-lib
+jvmArgs : 
+

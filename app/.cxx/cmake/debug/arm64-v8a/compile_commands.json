@@ -1,0 +1,37 @@
+[
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\test.c.o   -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\test.c",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\test.c"
+},
+
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\base64.c.o   -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\base64.c",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\base64.c"
+},
+
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\magic.cpp.o -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\magic.cpp",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\magic.cpp"
+},
+
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\md5_one.c.o   -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_one.c",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_one.c"
+},
+
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\md5_dgst.c.o   -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_dgst.c",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_dgst.c"
+},
+
+{
+  "directory": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\magic.dir\\hmac_sha1.c.o   -c E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\hmac_sha1.c",
+  "file": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\hmac_sha1.c"
+}
+]

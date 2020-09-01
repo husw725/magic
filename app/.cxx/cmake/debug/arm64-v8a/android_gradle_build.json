@@ -1,0 +1,71 @@
+{
+  "stringTable": {
+    "0": "E:/workspace_1/Kmagic/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Java/ss/studio_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmagic_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "magic-Debug-arm64-v8a": {
+      "buildCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\debug\\arm64-v8a\" magic",
+      "buildType": "debug",
+      "toolchain": "3664338272",
+      "abi": "arm64-v8a",
+      "artifactName": "magic",
+      "files": [
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\test.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\base64.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_one.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\md5_dgst.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\hmac_sha1.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\magic.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\workspace_1\\Kmagic\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libmagic.so"
+    }
+  },
+  "toolchains": {
+    "3664338272": {
+      "cCompilerExecutable": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

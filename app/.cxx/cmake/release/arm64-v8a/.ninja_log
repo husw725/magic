@@ -1,0 +1,16 @@
+# ninja log v5
+1	401	609688132	CMakeFiles/magic.dir/test.c.o	e9c4b09092d74053
+129	793	609688132	CMakeFiles/magic.dir/md5_one.c.o	128ba0d211cb7f82
+247	1305	609688133	CMakeFiles/magic.dir/hmac_sha1.c.o	befc1b0a478df809
+181	1312	609688133	CMakeFiles/magic.dir/md5_dgst.c.o	8f58e4a5e7751654
+44	1314	609688132	CMakeFiles/magic.dir/base64.c.o	aab920c5e3091467
+86	1437	609688133	CMakeFiles/magic.dir/magic.cpp.o	11899e01da2780c4
+1438	1758	609688133	E:/workspace_1/Kmagic/app/build/intermediates/cmake/release/obj/arm64-v8a/libmagic.so	37215b0f02eaae05
+1	103	0	clean	49e177db017736ba
+4	366	609688227	CMakeFiles/magic.dir/test.c.o	e9c4b09092d74053
+45	625	609688227	CMakeFiles/magic.dir/base64.c.o	aab920c5e3091467
+128	710	609688227	CMakeFiles/magic.dir/md5_one.c.o	128ba0d211cb7f82
+238	962	609688228	CMakeFiles/magic.dir/hmac_sha1.c.o	befc1b0a478df809
+170	1067	609688228	CMakeFiles/magic.dir/md5_dgst.c.o	8f58e4a5e7751654
+84	1455	609688228	CMakeFiles/magic.dir/magic.cpp.o	11899e01da2780c4
+1455	1771	609688228	E:/workspace_1/Kmagic/app/build/intermediates/cmake/release/obj/arm64-v8a/libmagic.so	37215b0f02eaae05

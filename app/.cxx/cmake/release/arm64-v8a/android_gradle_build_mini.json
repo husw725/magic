@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\workspace_1\\Kmagic\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "magic-Release-arm64-v8a": {
+      "artifactName": "magic",
+      "buildCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\workspace_1\\Kmagic\\app\\.cxx\\cmake\\release\\arm64-v8a\" magic",
+      "abi": "arm64-v8a",
+      "output": "E:\\workspace_1\\Kmagic\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmagic.so"
+    }
+  }
+}

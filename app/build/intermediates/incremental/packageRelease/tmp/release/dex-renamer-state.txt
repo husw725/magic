@@ -1,0 +1,4 @@
+#Mon Apr 27 18:58:49 CST 2020
+base.0=E\:\\workspace_1\\Kmagic\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

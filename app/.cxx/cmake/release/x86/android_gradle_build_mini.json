@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Java\\ss\\studio_sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Workspace_as\\Kmagic\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Workspace_as\\Kmagic\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Workspace_as\\Kmagic\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Java\\ss\\studio_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Workspace_as\\Kmagic\\app\\.cxx\\cmake\\release\\x86\" native-lib",
+      "abi": "x86",
+      "output": "E:\\Workspace_as\\Kmagic\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

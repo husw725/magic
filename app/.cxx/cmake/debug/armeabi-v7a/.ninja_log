@@ -1,0 +1,8 @@
+# ninja log v5
+3	1356	620643419	CMakeFiles/magic.dir/test.c.o	c6c5a5a06adbc6d3
+71	1395	620643420	CMakeFiles/magic.dir/base64.c.o	9d9f88703a78e205
+900	1611	620643420	CMakeFiles/magic.dir/md5_dgst.c.o	34d4495828b4867
+956	1616	620643420	CMakeFiles/magic.dir/hmac_sha1.c.o	b9bb327cd57867dd
+237	1633	620643420	CMakeFiles/magic.dir/md5_one.c.o	ab817c5d51808b6b
+128	1929	620643420	CMakeFiles/magic.dir/magic.cpp.o	f3a5a5580effc2ab
+1930	2250	620643420	E:/workspace_1/Kmagic/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libmagic.so	637e1ff4e95d327c

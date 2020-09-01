@@ -1,0 +1,85 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 29lUOWg4ugOLrE5JF1UN4NmSGxs=
+
+Name: classes.dex
+SHA1-Digest: vtLs4Uv8tW7E83TKuuNoztxB0ns=
+
+Name: lib/arm64-v8a/libmagic.so
+SHA1-Digest: vQNgdgMVOqI6+I9bMbWMvmcT2Y8=
+
+Name: lib/armeabi-v7a/libmagic.so
+SHA1-Digest: iAJY7g0+TYAkvL70t3RJhO4/nKQ=
+
+Name: res/drawable-anydpi-v21/ic_launcher_background.xml
+SHA1-Digest: vC+oIV4jqVp9VJ+fL6FbpAyLLME=
+
+Name: res/drawable-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: vnz6dpM0XUTSZSttxrE/A4VDh+A=
+
+Name: res/drawable-ldpi-v4/ic_launcher_background.png
+SHA1-Digest: fEmcbZ/YLVrMKgDc4wr7s+ZyedM=
+
+Name: res/drawable-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: PpyOBcsg97nuEt5hPry0o3BbbX4=
+
+Name: res/drawable-v24/$ic_launcher_foreground__0.xml
+SHA1-Digest: 6368yg9CVyHHo6ZcXRRHiRvf1H0=
+
+Name: res/drawable-v24/ic_launcher_foreground.xml
+SHA1-Digest: cRZ4whra1CNRuuZNjx3SGbx7nQw=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: 05bIrWLNo7fG066drzwQcU8tKOs=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: N3b6QbStxNejgnol5C5UejUizjA=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: /8pcH2vkKUh1kQY27CSORBGKLEA=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: pUU9avYI+a7iu5yGW0iYU3x/w8I=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: UqhjYoDOm5r1aN2i8YE++NX9DVQ=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: UqhjYoDOm5r1aN2i8YE++NX9DVQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 6YhtWAsUiy7rgFf39pW8NTlaACw=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: /AIk7fXCuJJacAkth/n0y2uGDLA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: CgmiCE5mWawqJo04Fbe6/Tia5QI=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: 8fJCg7KZL7GH/0RJUq4NRfhibxg=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: PSN0YdxgFXgW0evJwsV74M/8Uk0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: kL4LQqtzwgDfe4wbT3opjdSvBVg=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: vqAibGk9PjCm4KkxnGmsMOidtYc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: YXgfepaazMNsoZ37OKGoetkmKeo=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: Z5Z3Dm/XRJkOUh1xLmMSszPpJ3s=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: JXImCSy37NGjNN/PhoLCywjZZIU=
+
+Name: resources.arsc
+SHA1-Digest: lk9JjuOrkQlzEL429Y/pTj5aviM=
+

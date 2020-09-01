@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.melot.magic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:5:5-18:19
+12        android:allowBackup="true"
+12-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:6:9-35
+13        android:icon="@mipmap/ic_launcher"
+13-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:7:9-43
+14        android:label="@string/app_name"
+14-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:8:9-41
+15        android:roundIcon="@mipmap/ic_launcher_round"
+15-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:9:9-54
+16        android:supportsRtl="true" >
+16-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:10:9-35
+17        <activity android:name="com.melot.kmagic.MainActivity" >
+17-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:11:9-17:20
+17-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:11:19-47
+18            <intent-filter>
+18-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:12:13-16:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:13:17-69
+19-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:13:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:15:17-77
+21-->E:\workspace_1\Kmagic\app\src\main\AndroidManifest.xml:15:27-74
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>
